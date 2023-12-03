@@ -1,0 +1,14 @@
+C:\practic\RacingGame\RacingGame\bin\Debug\RacingGame.exe.config
+C:\practic\RacingGame\RacingGame\bin\Debug\RacingGame.exe
+C:\practic\RacingGame\RacingGame\bin\Debug\RacingGame.pdb
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.AssemblyReference.cache
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.Form1.resources
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.Properties.Resources.resources
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.GenerateResource.cache
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.CoreCompileInputs.cache
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.exe
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.pdb
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.SplashScreen.resources
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.Main.resources
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.helpForm2cs.resources
+C:\practic\RacingGame\RacingGame\obj\Debug\RacingGame.aboutForm.resources
